@@ -1,4 +1,4 @@
-Tnumpy
+numpy
 pandas
 scipy
 matplotlib
